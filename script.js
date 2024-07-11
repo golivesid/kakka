@@ -22,7 +22,7 @@ if (password==pass1)
   alert('Password Correct! Click OK to enter!');
 else
    {
-    window.location="http://127.0.0.1:3000/paymentv1-main/index.html";
+    window.location="https://on-inky.vercel.app/";
     }
 
     if (category === '') {
